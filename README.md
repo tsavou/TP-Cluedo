@@ -1,3 +1,5 @@
+Pour info, lors de la crétaion de la bdd j'ai décidé de ne pas mettre de prénom au personnage. C'est pourquoi la colonne prénom_personnage n'est pas présente dans la bdd malgré sa présence dans les MCD,MLD, MPD.
+
 # TP-Cluedo
 
 ## Requêtes
