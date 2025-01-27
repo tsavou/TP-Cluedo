@@ -56,7 +56,7 @@ VALUES ('Salle de bain');
 
 ### Modifier un objet
 
-```
+```sql
 UPDATE Objet
 SET nom_objet = 'Poignard'
 WHERE id_objet = '1';
@@ -64,7 +64,7 @@ WHERE id_objet = '1';
 
 ### Supprimer une pièce
 
-```
+```sql
 DELETE FROM Piece
 WHERE nom_piece = 'Salle de bain';
 ```
